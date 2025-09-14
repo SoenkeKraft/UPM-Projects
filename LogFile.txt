@@ -1,2 +1,3 @@
 Current status GIT: No update needed
 add open task to logfile
+Work on task ongoing
